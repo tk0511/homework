@@ -1,0 +1,46 @@
+body {
+	background-color:#fafafa;
+	font-family: 'Yantramanav', sans-serif;
+	color:#2d3c49;
+ }
+
+img, embed, object, video {
+	max-width:100%;
+}
+
+
+
+.container {
+	max-width:960px;
+	background-color:#fff;
+	border: 1px solid #ddd;
+}
+
+div {
+	//border: 1px solid red;
+}
+
+
+/*----------------------------------*/
+.header {
+	margin-bottom: 0px;
+	font-size: 45px;
+	font-weight: 100;
+}
+
+.sub-header {
+	margin-top: 0px;
+	front-weight: bold;
+}
+
+.project h2 {
+	margin-top: 10px;
+}
+
+.top-main-hr {
+	border-top: 3px solid #7d97ad;
+}
+
+.second-header {
+	color: #7d97ad;
+}
