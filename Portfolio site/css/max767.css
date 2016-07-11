@@ -1,0 +1,25 @@
+.logo {
+	display: none;
+}
+
+.project img{
+	margin: 0 auto;
+
+	width: calc(100vw - 30px);
+	height: calc((100vw - 30px) * 0.75);
+}
+
+.main-pic {
+	width: calc(100vw - 30px);
+	height: calc((100vw - 30px) * 0.4);
+}
+
+.header {
+	margin-bottom: 0px;
+	font-size: 30px;
+	font-weight: 100;
+}
+
+.sub-header {
+	font-size: 12px;
+}

@@ -9,19 +9,17 @@ img, embed, object, video {
 }
 
 
-
+/*
+---------------------------------------*/
 .container {
 	max-width:960px;
 	background-color:#fff;
 	border: 1px solid #ddd;
 }
 
-div {
-	//border: 1px solid red;
-}
 
-
-/*----------------------------------*/
+/*
+---------------------------------------*/
 .header {
 	margin-bottom: 0px;
 	font-size: 45px;
@@ -30,11 +28,21 @@ div {
 
 .sub-header {
 	margin-top: 0px;
-	front-weight: bold;
+	font-weight: bold;
 }
 
 .project h2 {
 	margin-top: 10px;
+}
+
+.project img {
+	max-width: 400px;
+	max-height: 300px;
+	width: 289px;
+	height: 216.75px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
 }
 
 .top-main-hr {
@@ -43,4 +51,9 @@ div {
 
 .second-header {
 	color: #7d97ad;
+}
+
+.main-pic {
+	width: 928px;
+	height: 371.2px;
 }
